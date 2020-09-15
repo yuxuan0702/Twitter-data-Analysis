@@ -13,5 +13,5 @@
 - 文本分析：nltk, sklearn, textblob
 
 ## 结论
-Output: https://www.notion.so/Twitter-Data-Analysis-70cd3d9d6c704982ab16f2517a201e09
+[🔗:Twitter Data Analysis](https://www.notion.so/Twitter-Data-Analysis-70cd3d9d6c704982ab16f2517a201e09)
 
